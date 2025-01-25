@@ -1,0 +1,20 @@
+body{
+    background:hsl(212, 45%, 89%)  ;
+    display:flex;
+   justify-content: center;
+   height: 100vh;
+   align-items: center;
+}
+.l {
+ background-color:white;
+ width: 300px;
+padding: 20px;
+border-radius:10px;
+text-align: center;
+}
+
+img {
+ width: 100%;
+border-radius:10px ;
+
+}
